@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('Portfolio\ _\ IMG\ Models.jpeg');
+    background-position: center;
+}
+h2{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.box-one{
+    width: 500px;
+    height: 300px;
+    border: solid 3px black;
+    margin: 60px 20px 10px 100px;
+    padding: 60px 450px 100px 90px;
+    background-image: url('Portfolio _ IMG Models.jpeg');
+    background-position: -460px; 
+}
+.topnav{
+    margin: -13%;
+    margin-left: 50%;
+}
+.topnav a {
+    float: left;
+    color: black;
+    text-align: right;
+    padding: 19px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.icons{
+    margin-left:  800px;
+    display: flex;
+    padding-top: 25px;
+}
+.fa-bag-shopping{
+    margin-left: 40px;
+}
+#one{
+    margin-left: 60%;
+    margin-top: 20%;
+    font-size: 90px;
+}
+#two{
+    margin-left: 85%;
+    font-size: 32px;
+    margin-top: -10%;
+}
+#three{
+    margin-left: 60%;
+    font-size: 32px;
+    margin-top: -90px;
+}
+.fa-arrow-right-long{
+    margin-left: 170%;
+}
+h6{
+    margin-left: 155%;
+    margin-top: -3.5%;
+    font-size: 12px;
+}
+.arrow{
+
+}
